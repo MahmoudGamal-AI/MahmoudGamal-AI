@@ -49,3 +49,10 @@ My engineering philosophy revolves around building end-to-end solutions: from cr
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudGamal-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudGamal-AI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudGamal-AI/MahmoudGamal-AI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudGamal-AI/MahmoudGamal-AI/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MahmoudGamal-AI/MahmoudGamal-AI/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
